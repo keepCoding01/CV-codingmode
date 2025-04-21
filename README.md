@@ -1,6 +1,6 @@
-# 🌟 CV Coding Mode
+# ✨🌸 CV Coding Mode 🌸✨
 
-Repository ini berisi dua Curriculum Vitae (CV) yang dibuat menggunakan codingan sederhana sebagai latihan mata kuliah pengembangan perangkat lunak tangkas.
+Repository ini berisi dua Curriculum Vitae (CV) yang dibuat menggunakan codingan sederhana sebagai latihan mata kuliah **pengembangan perangkat lunak tangkas**.
 
 ## 👩‍💻 Daftar CV
 - [CV Tasya](https://keepcoding01.github.io/CV-codingmode/cv-tasya/index.html)
@@ -16,7 +16,6 @@ Latihan membuat CV interaktif dan memperdalam pemahaman tentang GitHub.
 - Git & GitHub
 
 ## 💡 Struktur Repository
-
 ```
 CV-codingmode/
 │
@@ -30,14 +29,11 @@ CV-codingmode/
 │   ├── styles.css
 │   └── tasya.jpeg
 │
-├── index.html               # Halaman utama untuk memilih CV
-└── README.md                # Dokumentasi proyek (yang tadi kita buat)
+├── index.html               # Halaman utama 
+└── README.md                
 ```
 
 ## 🧪 Cara Menjalankan Secara Lokal
-
-Jika kamu ingin menjalankan proyek ini di komputer lokal kamu, ikuti langkah-langkah berikut:
-
 1. **Clone repository**
    ```bash
    git clone https://github.com/keepCoding01/CV-codingmode.git
