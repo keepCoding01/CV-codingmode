@@ -17,22 +17,22 @@ Latihan membuat CV interaktif dan memperdalam pemahaman tentang GitHub.
 
 ## 💡 Struktur Repository
 
+```
 CV-codingmode/
 │
-├── cv-dela/                # Folder berisi file CV Dela
-│   ├── index.html          
-│   ├── cvDela.css           
-│   └── Dela.jpg                 
+├── cv-dela/                 # Folder berisi file CV Dela
+│   ├── index.html
+│   ├── cvDela.css
+│   └── Dela.jpg
 │
-├── cv-tasya/               # Folder berisi file CV Tasya
-│   ├── index.html          
-│   ├── styles.css           
-│   └── tasya.jpeg                 
+├── cv-tasya/                # Folder berisi file CV Tasya
+│   ├── index.html
+│   ├── styles.css
+│   └── tasya.jpeg
 │
-├── index.html              # Halaman utama untuk memilih CV
-│
-├── README.md               # Dokumentasi proyek (yang tadi kita buat)
-
+├── index.html               # Halaman utama untuk memilih CV
+└── README.md                # Dokumentasi proyek (yang tadi kita buat)
+```
 
 ## 🧪 Cara Menjalankan Secara Lokal
 
